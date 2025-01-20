@@ -27,7 +27,7 @@ To use this project, you need:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/form-information-extractor.git
+   git clone https://github.com/umr-se/form-information-extractor
    cd form-information-extractor
    ```
 2. Open the script in [Google Colab](https://colab.research.google.com/):
